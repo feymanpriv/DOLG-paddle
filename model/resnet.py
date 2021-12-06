@@ -3,7 +3,7 @@
 # Copyright (c) Facebook, Inc. and its affiliates.
 # This source code is licensed under the MIT license.
 #
-# Written by feymanpriv(547559398@qq.com)
+# Written by feymanpriv(yangminbupt@outlook.com)
 
 """ResNe(X)t model backbones."""
 

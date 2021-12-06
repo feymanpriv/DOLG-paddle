@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Written by feymanpriv(547559398@qq.com)
+# Written by feymanpriv(yangminbupt@outlook.com)
 
 import init_path
 import sys
