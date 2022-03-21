@@ -13,6 +13,10 @@
 
 ## Evaluation
 
+```
+cd revisitop && python example_evaluate.py
+``` 
+
 **modified results from torch weights**
 
 |  			 					 | Roxf-M | +1M | Rpar-M | +1M   | Roxf-H | +1M  | Rpar-H | +1M  |
