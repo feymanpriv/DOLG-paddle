@@ -13,7 +13,15 @@
 
 ## Evaluation
 
-### Roxf/Rpar
+**modified results from torch version**
+
+|  			 					 | Roxf-M | +1M | Rpar-M | +1M   | Roxf-H | +1M  | Rpar-H | +1M  |
+|:------------------------------:|:------:|:---:|:------:|:-----:|:------:|:----:|:------:|:----:|
+|  DOLG-R50(with query cropping) |  81.20 |  -- | 90.07  |       |  62.55 |  --  | 79.20  |      |
+|  DOLG-R101(with query cropping)|  82.37 |  -- | 90.97  |       |  64.93 |  --  | 81.71  |      |
+|:------------------------------:|:------:|:---:|:------:|:-----:|:------:|:----:|:------:|:----:|
+|  DOLG-R50(w/o query cropping)  |  82.38 |     | 90.94  |       |  62.92 |      | 80.48  |      | 
+|  DOLG-R101(w/o query cropping) |  83.22 |     | 91.64  |       |  64.83 |      | 82.56  |      |
 
 
 
@@ -35,5 +43,4 @@ If the project helps your research, please consider citing our paper as follows.
     year={2021},
     pages={11772-11781}
 }
-
 
