@@ -31,7 +31,7 @@ cd revisitop && python example_evaluate.py
 
 ## Weights
 
-- [R101-DOLG](https://pan.baidu.com/s/1gLqpq4nqK4-tLpuf-5tcEQ) (a25u)
+- [R101-DOLG](https://pan.baidu.com/s/1gLqpq4nqK4-tLpuf-5tcEQ) (a25u)   [R50-DOLG](https://pan.baidu.com/s/1wA0bR5YC-LLge0ZkU5lR2w) (1on8)
 
 
 ## Citation
