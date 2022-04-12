@@ -8,7 +8,7 @@
 
 ## Training
 
-- Pytorch Version: There are increasing inquiries for Pytorch codes and models,  we have had our pytorch models and codes ready.  If you really need them for RESEARCH purpose,  please contact the authors in private.
+- Pytorch Version: There are increasing inquiries for Pytorch codes and models,  we have had our pytorch models and codes ready.  If you really need them for RESEARCH purpose,  please contact the authors in private (yangminbupt@outlook.com).
 
 
 ## Evaluation
@@ -19,14 +19,14 @@ cd revisitop && python example_evaluate.py
 
 **modified results from torch weights**
 
+
 |  			 					 | Roxf-M | +1M | Rpar-M | +1M   | Roxf-H | +1M  | Rpar-H | +1M  |
 |:------------------------------:|:------:|:---:|:------:|:-----:|:------:|:----:|:------:|:----:|
-|  DOLG-R50(with query cropping) |  81.20 |  -- | 90.07  |       |  62.55 |  --  | 79.20  |      |
-|  DOLG-R101(with query cropping)|  82.37 |  -- | 90.97  |       |  64.93 |  --  | 81.71  |      |
+|  DOLG-R50(with query cropping) |  81.20 |71.36| 90.07  | 78.99 |  62.55 |47.34 | 79.20  | 59.75|
+|  DOLG-R101(with query cropping)|  82.37 |73.63| 90.97  | 80.44 |  64.93 |51.57 | 81.71  | 62.95|
 |                                                                                                |
-|  DOLG-R50(w/o query cropping)  |  82.38 |     | 90.94  |       |  62.92 |      | 80.48  |      | 
-|  DOLG-R101(w/o query cropping) |  83.22 |     | 91.64  |       |  64.83 |      | 82.56  |      |
-
+|  DOLG-R50(w/o query cropping)  |  82.38 |77.78| 90.94  | 82.16 |  62.92 | 55.48| 80.48  | 65.77| 
+|  DOLG-R101(w/o query cropping) |  83.22 |78.96| 91.64  | 82.89 |  64.83 | 57.86| 82.56  | 67.34|
 
 
 ## Weights
