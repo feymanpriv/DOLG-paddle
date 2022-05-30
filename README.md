@@ -8,7 +8,7 @@
 
 ## Training
 
-- Pytorch Version: There are increasing inquiries for Pytorch codes and models,  we have had our pytorch models and codes ready.  If you really need them for RESEARCH purpose,  please contact the authors in private (yangminbupt@outlook.com).
+- Pytorch Version: There are increasing inquiries for Pytorch codes and models,  we have had our pytorch models and codes ready [here](https://github.com/feymanpriv/DOLG).  If you really need them for RESEARCH purpose,  please contact the authors in private (yangminbupt@outlook.com).
 
 
 ## Evaluation
