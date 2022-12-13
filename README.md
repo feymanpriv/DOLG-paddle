@@ -3,10 +3,8 @@
 
 ## Training
 
-- Pytorch Version: There are increasing inquiries for Pytorch codes and models,  we have had our pytorch models and codes ready [at this url](https://github.com/feymanpriv/DOLG).
-
-
-- We are happy to see from a Chinese technical media post (https://mp.weixin.qq.com/s/7B3hZUpLtTt8NcGt0c-77w) that our DOLG has been adopted as one of building blocks to the Kaggle21 landmark competition winner solution . In this post, third-party Pytorch code snippets of DOLG are also presented.
+- Pytorch Version: There are increasing inquiries for Pytorch codes and models,  we have had our pytorch models and codes ready [at this url](https://github.com/feymanpriv/DOLG). 
+We are happy to see from a Chinese technical media post (https://mp.weixin.qq.com/s/7B3hZUpLtTt8NcGt0c-77w) that our DOLG has been adopted as one of building blocks to the Kaggle21 landmark competition winner solution . In this post, third-party Pytorch code snippets of DOLG are also presented.
 
 
 ## Evaluation
